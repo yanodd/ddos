@@ -21,7 +21,7 @@
 
 ## mitigation - CS
 
-![ICloud Signalling](https://www.google.gr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwixh52Vo7fdAhVBiywKHWk4AiQQjRx6BAgBEAU&url=https%3A%2F%2Fslideplayer.com%2Fslide%2F5277383%2F&psig=AOvVaw2oH12jkIFb5Lw94rXzKG6H&ust=1536903826431143)
+![ICloud Signalling](http://138.otenet.gr/cs.jpg)
 ---
 
 ## mitigation - procedure
